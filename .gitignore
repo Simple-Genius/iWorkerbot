@@ -1,0 +1,164 @@
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/*.xcworkspace/contents.xcworkspacedata
+!*.xcodeproj/xcshareddata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+
+# User settings
+xcuserdata/
+*.xcuserdatad/
+
+# Build products
+DerivedData/
+build/
+
+# Various settings
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# iOS Simulator
+*.hmap
+*.ipa
+
+# Certificates
+*.mobileprovision
+*.p12
+
+# Machine Learning Models and Large Files
+*.bin
+*.mlmodel
+*.mlpackage/
+*.mlmodelc
+*.tflite
+*.gguf
+*.onnx
+*.h5
+*.pb
+*.pt
+*.pth
+*.safetensors
+*.pkl
+*.pickle
+
+# Text and dataset files
+*.txt
+*.json
+*.csv
+*.tsv
+*.parquet
+
+# Archive files
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+*~
+.swp
+.swo
+
+# Dependency directories
+Pods/
+Carthage/Build/
+
+# Package manager files
+*.resolved
+Package.resolved
+
+# CocoaPods
+Podfile.lock
+Pods/*
+!Podfile
+!Podfile.lock
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code coverage
+*.gcov
+*.gcno
+*.gcda
+coverage.xml
+coverage/
+
+# Large files (anything over 50MB will be caught by git's default settings)
+# But we explicitly exclude common large file patterns
+
+# Media files
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.webm
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+
+# Image files (large ones)
+*.psd
+*.ai
+*.eps
+*.tiff
+*.bmp
+*.exr
+*.hdr
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.realm
+
+# Backup files
+*.backup
+*.bak
+*.old
+*.orig
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production

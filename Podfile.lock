@@ -1,0 +1,26 @@
+PODS:
+  - MediaPipeTasksGenAI (0.10.24):
+    - MediaPipeTasksGenAIC (= 0.10.24)
+  - MediaPipeTasksGenAIC (0.10.24)
+  - SQLite.swift (0.15.4):
+    - SQLite.swift/standard (= 0.15.4)
+  - SQLite.swift/standard (0.15.4)
+
+DEPENDENCIES:
+  - MediaPipeTasksGenAI
+  - SQLite.swift
+
+SPEC REPOS:
+  trunk:
+    - MediaPipeTasksGenAI
+    - MediaPipeTasksGenAIC
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  MediaPipeTasksGenAI: 076ba7032a6e9da16db9c7cf0c3b67c751c18bc1
+  MediaPipeTasksGenAIC: ec35d9f431f6a6b651a0bc9f67a4ed149ffa575c
+  SQLite.swift: a107c734115fea616a4ad31371d39f1637e8de56
+
+PODFILE CHECKSUM: dc84555224c282feb3b1b18b981edd8a87803581
+
+COCOAPODS: 1.16.2
