@@ -40,7 +40,7 @@ The project uses the following key dependencies:
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
+   git clone (https://github.com/Simple-Genius/iWorkerbot)
    cd ChatBot
    ```
 
