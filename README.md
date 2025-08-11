@@ -40,7 +40,7 @@ The project uses the following key dependencies:
 
 1. **Clone the repository**
    ```bash
-   git clone (https://github.com/Simple-Genius/iWorkerbot)
+   git clone https://github.com/Simple-Genius/iWorkerbot
    cd ChatBot
    ```
 
@@ -132,11 +132,3 @@ ChatBot/
 2. **Slow Performance**: Check if running on simulator vs device
 3. **Model Loading Errors**: Verify model files are correctly placed
 4. **Build Errors**: Ensure all CocoaPods dependencies are installed
-
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
