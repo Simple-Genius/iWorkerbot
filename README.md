@@ -132,3 +132,8 @@ ChatBot/
 2. **Slow Performance**: Check if running on simulator vs device
 3. **Model Loading Errors**: Verify model files are correctly placed
 4. **Build Errors**: Ensure all CocoaPods dependencies are installed
+   
+
+https://github.com/user-attachments/assets/63d5720a-316f-441c-83b1-9a0b9ffe58b2
+
+
